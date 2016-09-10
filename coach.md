@@ -13,9 +13,9 @@ They will go with you through [our ClojureBridge curriculum](https://clojurebrid
 There will be a coaching and awareness training before the workshop.
 
 ### Important information
-- **Coaches Training:** 9 June 2016
-- **Workshop:** June 17 and 18, 2016  
-- **Location:** Berlin, Wunderlist office
+- **Coaches Training:** 20 September 2016
+- **Workshop:** September 30 and October 1, 2016  
+- **Location:** London, Thoughtworks Office, Sooh
 
 ### You at ClojureBridge?
 - We are especially looking for women coaches this summer. But of course men and people of non-binary gender identity are very welcome to coach.
@@ -37,7 +37,7 @@ There will be a coaching and awareness training before the workshop.
 
 <div class="row">
   <div class="col-md-4">
-    <a href="http://goo.gl/forms/zg113VqIoy">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTOdF_26z0lh-yHJDSc8tjFd_CoVpTdvb-4MMg7n44EIC4dQ/viewform">
       <button type="button" class="btn btn-success">Sign up now to coach!</button>
     </a>
   </div>
