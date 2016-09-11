@@ -37,12 +37,12 @@
 }
 
 .deck-container .slide_toc .table ul {
-    padding: 4px 4px 4px 8px;
-    margin: 4px 0 2em;
+    /* padding: 4px 4px 4px 8px; */
+    /* margin: 4px 0 2em; */
     overflow-y: auto;
 }
 .deck-container .slide_toc .table ul > li {
-    margin-bottom: .25em;
+    /* margin-bottom: .25em;        */
 }
 
 .deck-container .slide_toc .table {
