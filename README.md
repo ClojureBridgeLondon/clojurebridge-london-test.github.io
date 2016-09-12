@@ -1,8 +1,8 @@
-# ClojureBridge Berlin Website
+# ClojureBridge London Website
 
 This is our website to document our events even when they disappear from the main clojurebridge.org website.
 
-https://clojurebridge-berlin.github.io
+https://clojurebridgelondon.github.io
 
 ## Coaches Training slides
 
@@ -17,7 +17,7 @@ deck -b docs/coaches_training.deck.md
 
 How to get started:
 ```
-git clone git@github.com:clojurebridge-berlin/clojurebridge-berlin.github.io.git
+git clone git@github.com:clojurebridgelondon/clojurebridgelondon.github.io.git
 cd clojurebridge-berlin.github.io
 git pull
 jekyll serve
