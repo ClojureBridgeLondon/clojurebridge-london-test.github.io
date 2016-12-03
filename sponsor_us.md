@@ -17,9 +17,7 @@ By supporting us you help to make the world a little better. Your company also
 gets to associate itself with a positive and ambitious event, which aims to
 increase diversity in the technology scene.
 
-Your company has an option of different tiers of support. There's the direct
-sponsorship tiers, which are the most valuable form of support, and a generic
-small supporter tier. The direct sponsorship tiers involve directly paying our
+Your company has an option of different tiers of support. The sponsorship tiers involve directly paying our
 supplier with the order details we provide, and as such also mean you can pay
 with credit card and will receive an invoice.
 
@@ -27,6 +25,8 @@ with credit card and will receive an invoice.
 * Gold Tier (~£500): Notebooks for the Attendees
 * Silver Tier (~£400): Food for the coaches training
 * Small Supporter Tier (£250)
+* ClojureX opportunity grant: Ticket(s) for ClojureBridge alumni to 
+attend [ClojureX London](https://skillsmatter.com/conferences/8783-clojure-exchange-2017) (£95 + VAT each)
 
 All our sponsors are listed on our website and on our event page on
 ClojureBridge.org. They'll receive a shoutout at the start and end of the event
@@ -43,9 +43,8 @@ logos.
 <!--
 There's two ways your company can choose to support us:
 -->
-### Direct Sponsorship
 
-If you've opted for a direct sponsorship tier, then your transaction will be with
+If you've opted for a sponsorship tier, then your transaction will be with
 our suppliers directly. In this case, we will give you the exact
 link/message/order that we need, and you make the transaction with that
 company directly. This means normal business billing, with ability to pay by
@@ -67,18 +66,16 @@ does *not* issue invoices for donations.
 
 ### Get in touch today:
 
-- Mail: <john@jr0cket.co.uk>
+- Mail: <john@jr0cket.co.uk> or <clojurebridgelondon@gmail.com> 
 - Twitter: [ClojureBridgeLN](https://twitter.com/ClojureBridgeLN)
 
 ## ♥
 
 ---
 
-<div class="row supporter-area">
-  <h2>Past ClojureBridge Supporters</h2>
-
-  <div class="col-md-12 supporter-logos">
-    <a href="http://www.purelyfunctional.tv/">
-      <img class="supporter-logo" src="/images/logos/purefunctional_tv.png">
-  </div>
-</div>
+Previous sponsors include:
+* [PurelyFunctional.tv](http://www.purelyfunctional.tv/)
+* [uSwitch](https://www.uswitch.com/) 
+* [ThoughtWorks](https://www.thoughtworks.com/)
+* [Style.com](https://www.style.com/)
+* [GDS](https://gds.blog.gov.uk/)
