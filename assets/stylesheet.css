@@ -110,6 +110,30 @@ section.module.parallax-4 {
   background-image: url("/images/cb4.jpg");
   opacity: 0.9;
 }
+section.module.parallax-5 {
+  background-image: url("/images/2017-Jun-clojurebridgelondon-lobby-discussion.jpeg");
+  opacity: 0.8;
+}
+section.module.parallax-6 {
+  background-image: url("/images/2017-Jun-clojurebridgelondon-group-student-focus.jpeg");
+  opacity: 0.8;
+}
+section.module.parallax-7 {
+  background-image: url("/images/2017-Jun-clojurebridgelondon-lobby-reg.jpeg");
+  opacity: 0.8;
+}
+section.module.parallax-8 {
+  background-image: url("/images/2017-Jun-clojurebridgelondon-sm-group-focus.jpeg");
+  opacity: 0.8;
+}
+section.module.parallax-9 {
+  background-image: url("/images/2017-Jun-clojurebridgelondon-show-tell-no-focus.jpeg");
+  opacity: 0.8;
+}
+section.module.parallax-10 {
+  background-image: url("/images/2017-Jun-clojurebridgelondon-tw-swag.jpeg");
+  opacity: 0.8;
+}
 
 .attention-box {
   margin-left: 5px;
